@@ -1,0 +1,5 @@
+/* Styling of all elemenets within main.js*/
+.tick line,
+.domain {
+  stroke: #ddd;
+}
