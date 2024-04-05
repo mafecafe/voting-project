@@ -1,0 +1,79 @@
+country,ISO,freedom_score,freedom_status,population,Source,Source 2,Type,Notes,Counts?,bar colored?,Internet %
+Slovakia,SVK,90,Free,5431752,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,#N/A
+Taiwan,TWN,94,Free,#N/A,Time,Center for American Progress,Presidential Election,,TRUE,FALSE,#N/A
+Venezuela,VEN,15,Not Free,28301696,Time,Center for American Progress,Presidential Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",TRUE,TRUE,#N/A
+Iceland,ISL,94,Free,382003,Time,Center for American Progress,Presidential Election,,TRUE,TRUE,99.68701957
+Belarus,BLR,8,Not Free,9228071,Time,Center for American Progress,Parliamentary Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",FALSE,FALSE,
+Denmark,DNK,97,Free,5903037,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,98.8658506
+Bhutan,BTN,63,Partly Free,782455,Time,,National Assembly Election,,FALSE,FALSE,
+Luxembourg,LUX,97,Free,653103,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,98.66
+United Kingdom,GBR,91,Free,66971395,Time,Center for American Progress,General Election,,TRUE,TRUE,96.68023657
+Ireland,IRL,97,Free,5127170,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,95.16956667
+Cambodia,KHM,23,Not Free,16767842,Time,,Senate Election,,FALSE,FALSE,
+Spain,ESP,90,Free,47778340,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,93.9
+Finland,FIN,100,Free,5556106,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,92.80806082
+Belgium,BEL,96,Free,11685814,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,92.79
+Austria,AUT,93,Free,9041851,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,92.52915104
+Netherlands,NLD,97,Free,17700982,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,92.05298013
+United States,USA,83,Free,333287557,Time,Center for American Progress,Presidential Election,,TRUE,TRUE,91.75320833
+Germany,DEU,93,Free,83797985,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,91.43060973
+Latvia,LVA,88,Free,1879383,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,91.17964988
+Estonia,EST,95,Free,1348840,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,91.04
+Cyprus,CYP,92,Free,1251488,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,90.75951564
+Uruguay,URY,96,Free,3422794,Time,Center for American Progress,Presidential Election,,TRUE,TRUE,90.07384089
+Slovenia,SVN,96,Free,2111986,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,89.00399524
+Hungary,HUN,65,Partly Free,9643048,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,88.64083466
+Sweden,SWE,99,Free,10486941,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,88.30778589
+Russia,RUS,13,Not Free,144236933,Time,Center for American Progress,Presidential Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",TRUE,TRUE,88.21384569
+Lithuania,LTU,89,Free,2831639,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,86.93055802
+France,FRA,89,Free,67971311,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,86.09548575
+Azerbaijan,AZE,7,Not Free,10141756,Time,,Presidential Election,,TRUE,TRUE,86
+Poland,POL,80,Free,36821749,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,85.37490736
+Dominican Republic,DOM,68,Partly Free,11228821,Time,Center for American Progress,Presidential Election,,TRUE,TRUE,85.24298638
+Iran,IRN,11,Not Free,88550570,Time,Center for American Progress,Legislative Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",FALSE,FALSE,
+Romania,ROU,83,Free,19047009,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,83.5904265
+North Macedonia,MKD,67,Partly Free,2057679,Time,Center for American Progress,Presidential / Parlaimentary Election,,TRUE,TRUE,83.01821027
+Jordan,JOR,33,Not Free,11285869,Time,Center for American Progress,General Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",TRUE,TRUE,82.75558413
+North Korea,PRK,3,Not Free,26069416,Time,Center for American Progress,Parliamentary Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",FALSE,FALSE,
+South Korea,KOR,83,Free,51628117,Time,Center for American Progress,Legislative Election,,FALSE,FALSE,
+Czechia,CZE,94,Free,10672118,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,82.67062427
+Portugal,PRT,96,Free,10409704,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,82.30902804
+Croatia,HRV,83,Free,3855600,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,81.25396608
+Madagascar,MDG,58,Partly Free,29611714,Time,Center for American Progress,Legislative Election,,FALSE,FALSE,
+Ukraine,UKR,49,Partly Free,38000000,Time,Center for American Progress,Presidential Election,Constitutional mandate to hold them but unclear whether they will happen,TRUE,TRUE,79.21829353
+Tunisia,TUN,51,Partly Free,12356117,Time,Center for American Progress,Presidential Election,,TRUE,TRUE,78.98965145
+Greece,GRC,85,Free,10426919,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,78.49426371
+Georgia,GEO,58,Partly Free,3712502,Time,Center for American Progress,Presidential / Parlaimentary Election,,TRUE,TRUE,76.44271459
+Mexico,MEX,60,Partly Free,127504125,Time,Center for American Progress,Presidential Election,,TRUE,TRUE,75.62650476
+Mongolia,MNG,84,Free,3398366,Time,Center for American Progress,Parliamentary Election,,FALSE,FALSE,
+Bulgaria,BGR,78,Free,6465097,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,75.27144583
+Italy,ITA,90,Free,58940425,Time,Center for American Progress,European Union Parliament,,TRUE,TRUE,74.8623274
+Botswana,BWA,72,Free,2630296,Time,Center for American Progress,General Election,,TRUE,TRUE,73.5
+South Africa,ZAF,79,Free,59893885,Time,Center for American Progress,General Election,,TRUE,TRUE,72.310492
+Algeria,DZA,32,Not Free,44903225,Time,Center for American Progress,Presidential Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",TRUE,TRUE,70.77
+Ghana,GHA,80,Free,33475870,Time,Center for American Progress,General Election,,TRUE,TRUE,68.2
+Mauritius,MUS,85,Free,1262523,Time,,General Election,,TRUE,TRUE,67.58
+Panama,PAN,83,Free,4408581,Time,Center for American Progress,Presidential Election,,TRUE,TRUE,67.509728
+Sri Lanka,LKA,54,Partly Free,22181000,Time,,Presidential Election,,TRUE,TRUE,66.68151674
+El Salvador,SLV,53,Partly Free,6336392,Time,Center for American Progress,Presidential Election,,TRUE,TRUE,62.88028717
+Indonesia,IDN,57,Partly Free,275501339,Time,Center for American Progress,General Election,,TRUE,TRUE,62.1
+Moldova,MDA,61,Partly Free,2538894,Time,Center for American Progress,Presidential Election,,TRUE,TRUE,61.28776161
+Mauritania,MRT,39,Partly Free,4736139,Time,Center for American Progress,Presidential Election,,TRUE,TRUE,58.75818983
+Senegal,SEN,67,Partly Free,17316449,Time,Center for American Progress,Presidential Election,,TRUE,TRUE,58.05481906
+Namibia,NAM,77,Free,2567012,Time,Center for American Progress,General Election,,TRUE,TRUE,52.9734788
+India,IND,66,Partly Free,1417173173,Time,Center for American Progress,General Election,,TRUE,TRUE,46.31
+Bangladesh,BGD,40,Partly Free,171186372,Time,Center for American Progress,General Election,,TRUE,TRUE,38.91744466
+Solomon Islands,SLB,75,Free,724273,Time,Center for American Progress,General Election,,TRUE,TRUE,36.131954
+Guinea-Bissau,GNB,43,Partly Free,2105566,Time,Center for American Progress,General Election,,TRUE,TRUE,35.15498736
+Mali,MLI,26,Not Free,22593590,Time,Center for American Progress,General Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",TRUE,TRUE,34.49
+Rwanda,RWA,23,Not Free,13776698,Time,Center for American Progress,General Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",TRUE,TRUE,30.46181693
+Syria,SYR,1,Not Free,22125249,Time,Center for American Progress,Parliamentary Election,,FALSE,FALSE,
+Comoros,COM,42,Partly Free,836774,Time,,Presidential Election,,TRUE,TRUE,27.33694319
+Togo,TGO,42,Partly Free,8848699,Time,,Parliamentary Election,,FALSE,FALSE,
+Palau,PLW,92,Free,18055,,Center for American Progress,General Election,,TRUE,TRUE,26.97033263
+Burkina Faso,BFA,27,Not Free,22673762,,Center for American Progress,General Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",TRUE,TRUE,21.57982734
+Pakistan,PAK,35,Partly Free,235824862,Time,,General Election,,TRUE,TRUE,21.0372074
+Chad,TCD,15,Not Free,17723315,Time,Center for American Progress,Presidential / Parliament Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",TRUE,TRUE,17.8688792
+Mozambique,MOZ,44,Partly Free,32969518,Time,Center for American Progress,General Election,,TRUE,TRUE,17.37283681
+Uzbekistan,UZB,12,Not Free,35648100,Time,Center for American Progress,Legislative Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",FALSE,FALSE,
+South Sudan,SSD,1,Not Free,10913164,Time,Center for American Progress,General Election,"According to a Freedom House global analysis of people’s access to political rights and civil liberties, this country is not considered free.",TRUE,TRUE,6.5

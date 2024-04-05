@@ -11,46 +11,43 @@ var svgHeight = svg.attr("height");
 var chartWidth = svgWidth - margins.left - margins.right;
 var chartHeight = svgHeight - margins.top - margins.bottom;
 console.log("svgHeight", svgHeight);
+console.log(svg);
 
 function createScatter(data) {
    
     //  Set csv columns to use for the different dimensions
-    var xKey = "2022_pop";
-    var yKey = "2022_gdp_pc";
-    var rKey = "2022_pop";
-    var colorKey = "Region";
+    var xKey = "freedom_score";
+    var rKey = "population";
+    var colorKey = "freedom_status";
 
     // Scales
     // Get minimum and maximum values of each cvs column in the dataset
     var xMinMax = d3.extent(data, function (d) {
       return +d[xKey] || 0;
     });
-    var yMinMax = d3.extent(data, function (d) {
-      return +d[yKey] || 0;
+    var rMinMax = d3.extent(data, function (d) {
+      return +d[rKey] || 0;
     });
 
-    console.log("Extent:", xMinMax, yMinMax);
+    console.log("Extent:", xMinMax);
 
     // Scale to map the circles on the canvas
     var xScale = d3.scaleLinear().domain(xMinMax).range([0, chartWidth]).nice();
-    var yScale = d3.scaleLinear().domain(yMinMax).range([chartHeight, 0]).nice();
+
+    var rScale = d3.scaleLinear().domain(rMinMax).range([5, 100])
     
     // Set the color scales for the chart
     // Get the categorical values in the dataset
-    var regions =  data.map(function(d) {return d[colorKey];});
-    var uniqueRegions = [...new Set(regions)];
+    var categories =  data.map(function(d) {return d[colorKey];});
+    var uniqueCategories = [...new Set(categories)];
     // Create the color scale
-    var colorScale = d3.scaleOrdinal(uniqueRegions, d3.schemeTableau10);
+    var colorScale = d3.scaleOrdinal(uniqueCategories, d3.schemeTableau10);
 
     svg.append("g")
       .classed("x-axis", true)
       .attr("transform", `translate(${margins.left}, ${chartHeight + margins.top})`)
       .call(d3.axisBottom(xScale).tickSize(-1 * chartHeight));
 
-    svg.append("g")
-      .classed("y-axis", true)
-      .attr("transform", `translate(${margins.left}, ${margins.top})`)
-      .call(d3.axisLeft(yScale).tickSize(-1 * chartWidth));
     
       // Create a g element that contains all the circles
     var g = svg
@@ -68,15 +65,17 @@ function createScatter(data) {
     // Update the attributes of the circles
     circleUpdate.attr("cx", function (d, i) {return xScale(d[xKey] || 0);}); 
 
-    circleUpdate.attr("cy", function(d, i) {return yScale(d[yKey] || 0);}); 
+    circleUpdate.attr("cy", function(d, i) {return 200;}); 
     
-    circleUpdate.attr("r", function (d, i) {return Math.sqrt(50);});
+    circleUpdate.attr("r", function (d, i) {return rScale(d[rKey] || 0);});
     
     circleUpdate.style("fill", function(d, i) {return colorScale(d[colorKey] || "#ededed");});
+
+    circleUpdate.style("fill-opacity", 0.5);
 };
 
 
-d3.csv("./data-wb.csv").then(function (data) {
+d3.csv("./data-voting.csv").then(function (data) {
     console.log(data);
     createScatter(data);
 });
