@@ -1,0 +1,205 @@
+country,iso,region,income_group,internet_pct,has_election,freedom_status,freedom_score,election_type
+American Samoa,ASM,East Asia & Pacific,High income,0,FALSE,,,
+Northern Mariana Islands,MNP,East Asia & Pacific,High income,0,FALSE,,,
+Turks and Caicos Islands,TCA,Latin America & Caribbean,High income,0,FALSE,,,
+North Korea,PRK,,,0,TRUE,Not Free,3,Parliamentary Election
+Central African Republic,CAF,Sub-Saharan Africa,Low income,7.51,FALSE,,,
+Uganda,UGA,Sub-Saharan Africa,Low income,8.95,FALSE,,,
+South Sudan,SSD,Sub-Saharan Africa,Low income,9.27,TRUE,Not Free,1,General Election
+Burundi,BDI,Sub-Saharan Africa,Low income,11.08,FALSE,,,
+Chad,TCD,Sub-Saharan Africa,Low income,13.18,TRUE,Not Free,15,Presidential / Parliament Election
+Ethiopia,ETH,Sub-Saharan Africa,Low income,16.7,FALSE,,,
+Burkina Faso,BFA,Sub-Saharan Africa,Low income,17.02,TRUE,Not Free,27,General Election
+Afghanistan,AFG,South Asia,Low income,17.71,FALSE,,,
+Malawi,MWI,Sub-Saharan Africa,Low income,17.99,FALSE,,,
+Mozambique,MOZ,Sub-Saharan Africa,Low income,19.84,TRUE,Partly Free,44,General Election
+Eritrea,ERI,Sub-Saharan Africa,Low income,20.01,FALSE,,,
+Madagascar,MDG,Sub-Saharan Africa,Low income,20.37,TRUE,Partly Free,58,Legislative Election
+Sierra Leone,SLE,Sub-Saharan Africa,Low income,20.64,FALSE,,,
+Turkmenistan,TKM,Europe & Central Asia,Upper middle income,21.25,FALSE,,,
+Niger,NER,Sub-Saharan Africa,Low income,23.19,FALSE,,,
+Liberia,LBR,Sub-Saharan Africa,Low income,23.5,FALSE,,,
+Papua New Guinea,PNG,East Asia & Pacific,Lower middle income,24.07,FALSE,,,
+Sudan,SDN,Sub-Saharan Africa,Low income,26.44,FALSE,,,
+Guinea,GIN,Sub-Saharan Africa,Lower middle income,26.5,FALSE,,,
+Palau,PLW,East Asia & Pacific,Upper middle income,26.97,TRUE,Free,92,General Election
+Pakistan,PAK,South Asia,Lower middle income,27.38,TRUE,Partly Free,35,General Election
+Somalia,SOM,Sub-Saharan Africa,Low income,27.6,FALSE,,,
+Tanzania,TZA,Sub-Saharan Africa,Lower middle income,29.06,FALSE,,,
+Benin,BEN,Sub-Saharan Africa,Lower middle income,32.21,FALSE,,,
+Guinea-Bissau,GNB,Sub-Saharan Africa,Low income,32.47,TRUE,Partly Free,43,General Election
+Zambia,ZMB,Sub-Saharan Africa,Lower middle income,33,FALSE,,,
+Timor-Leste,TLS,East Asia & Pacific,Lower middle income,34.02,FALSE,,,
+Rwanda,RWA,Sub-Saharan Africa,Low income,34.2,TRUE,Not Free,23,General Election
+Syrian Arab Republic,SYR,Middle East & North Africa,Low income,34.65,TRUE,Not Free,1,Parliamentary Election
+Kenya,KEN,Sub-Saharan Africa,Lower middle income,34.98,FALSE,,,
+Mali,MLI,Sub-Saharan Africa,Low income,35.09,TRUE,Not Free,26,General Election
+Comoros,COM,Sub-Saharan Africa,Lower middle income,35.67,TRUE,Partly Free,42,Presidential Election
+Togo,TGO,Sub-Saharan Africa,Low income,37.02,TRUE,Partly Free,42,Parliamentary Election
+Mauritania,MRT,Sub-Saharan Africa,Lower middle income,37.38,TRUE,Partly Free,39,Presidential Election
+Zimbabwe,ZWE,Sub-Saharan Africa,Lower middle income,38.43,FALSE,,,
+Nigeria,NGA,Sub-Saharan Africa,Lower middle income,39.21,FALSE,,,
+Haiti,HTI,Latin America & Caribbean,Lower middle income,39.26,FALSE,,,
+Cote d'Ivoire,CIV,Sub-Saharan Africa,Lower middle income,40.65,FALSE,,,
+Cameroon,CMR,Sub-Saharan Africa,Lower middle income,41.91,FALSE,,,
+Solomon Islands,SLB,East Asia & Pacific,Lower middle income,42.46,TRUE,Free,75,General Election
+Bangladesh,BGD,South Asia,Lower middle income,44.5,TRUE,Partly Free,40,General Election
+Angola,AGO,Sub-Saharan Africa,Lower middle income,44.76,FALSE,,,
+Vanuatu,VUT,East Asia & Pacific,Lower middle income,45.73,FALSE,,,
+Lesotho,LSO,Sub-Saharan Africa,Lower middle income,47.99,FALSE,,,
+Sri Lanka,LKA,South Asia,Lower middle income,51.2,TRUE,Partly Free,54,Presidential Election
+Nepal,NPL,South Asia,Lower middle income,55.77,FALSE,,,
+India,IND,South Asia,Lower middle income,55.9,TRUE,Partly Free,66,General Election
+Guatemala,GTM,Latin America & Caribbean,Upper middle income,56.05,FALSE,,,
+Tajikistan,TJK,Europe & Central Asia,Lower middle income,56.79,FALSE,,,
+Eswatini,SWZ,Sub-Saharan Africa,Lower middle income,57.62,FALSE,,,
+Samoa,WSM,East Asia & Pacific,Lower middle income,58.14,FALSE,,,
+Nicaragua,NIC,Latin America & Caribbean,Lower middle income,58.23,FALSE,,,
+Honduras,HND,Latin America & Caribbean,Lower middle income,58.28,FALSE,,,
+Tonga,TON,East Asia & Pacific,Upper middle income,58.53,FALSE,,,
+Myanmar,MMR,East Asia & Pacific,Lower middle income,58.54,FALSE,,,
+Equatorial Guinea,GNQ,Sub-Saharan Africa,Upper middle income,60.37,FALSE,,,
+Senegal,SEN,Sub-Saharan Africa,Lower middle income,60.61,TRUE,Partly Free,67,Presidential Election
+Cambodia,KHM,East Asia & Pacific,Lower middle income,60.72,TRUE,Not Free,23,Senate Election
+Sao Tome and Principe,STP,Sub-Saharan Africa,Lower middle income,61.46,FALSE,,,
+Venezuela,VEN,,,61.6,TRUE,Not Free,15,Presidential Election
+Lao PDR,LAO,East Asia & Pacific,Lower middle income,63.63,FALSE,,,
+Virgin Islands (U.S.),VIR,Latin America & Caribbean,High income,64.38,FALSE,,,
+Namibia,NAM,Sub-Saharan Africa,Upper middle income,64.41,TRUE,Free,77,General Election
+Djibouti,DJI,Middle East & North Africa,Lower middle income,65.02,FALSE,,,
+Marshall Islands,MHL,East Asia & Pacific,Upper middle income,65.72,FALSE,,,
+El Salvador,SLV,Latin America & Caribbean,Upper middle income,67.66,TRUE,Partly Free,53,Presidential Election
+Curacao,CUW,Latin America & Caribbean,High income,68.13,FALSE,,,
+Panama,PAN,Latin America & Caribbean,High income,68.55,TRUE,Free,83,Presidential Election
+Greenland,GRL,Europe & Central Asia,High income,69.48,FALSE,,,
+Ghana,GHA,Sub-Saharan Africa,Lower middle income,69.94,TRUE,Free,80,General Election
+St. Lucia,LCA,Latin America & Caribbean,Upper middle income,70.08,FALSE,,,
+Bolivia,BOL,Latin America & Caribbean,Lower middle income,70.24,FALSE,,,
+Cuba,CUB,Latin America & Caribbean,Upper middle income,71.28,FALSE,,,
+Gabon,GAB,Sub-Saharan Africa,Upper middle income,71.93,FALSE,,,
+Tunisia,TUN,Middle East & North Africa,Lower middle income,72.35,TRUE,Partly Free,51,Presidential Election
+Belize,BLZ,Latin America & Caribbean,Upper middle income,72.36,FALSE,,,
+French Polynesia,PYF,East Asia & Pacific,High income,72.7,FALSE,,,
+Indonesia,IDN,East Asia & Pacific,Upper middle income,72.78,TRUE,Partly Free,57,General Election
+Cabo Verde,CPV,Sub-Saharan Africa,Lower middle income,73.54,FALSE,,,
+Grenada,GRD,Latin America & Caribbean,Upper middle income,74.12,FALSE,,,
+Tuvalu,TUV,East Asia & Pacific,Upper middle income,74.31,FALSE,,,
+South Africa,ZAF,Sub-Saharan Africa,Upper middle income,75.66,TRUE,Free,79,General Election
+St. Vincent and the Grenadines,VCT,Latin America & Caribbean,Upper middle income,75.99,FALSE,,,
+St. Kitts and Nevis,KNA,Latin America & Caribbean,High income,76.42,FALSE,,,
+Algeria,DZA,Middle East & North Africa,Lower middle income,76.91,TRUE,Not Free,32,Presidential Election
+Ecuador,ECU,Latin America & Caribbean,Upper middle income,77.17,FALSE,,,
+Colombia,COL,Latin America & Caribbean,Upper middle income,77.34,FALSE,,,
+Antigua and Barbuda,ATG,Latin America & Caribbean,High income,77.58,FALSE,,,
+British Virgin Islands,VGB,Latin America & Caribbean,High income,77.7,FALSE,,,
+Suriname,SUR,Latin America & Caribbean,Upper middle income,78.4,FALSE,,,
+Fiji,FJI,East Asia & Pacific,Upper middle income,79.35,FALSE,,,
+Mauritius,MUS,Sub-Saharan Africa,Upper middle income,79.5,TRUE,Free,85,General Election
+Iran,IRN,,,79.63,TRUE,Not Free,11,Legislative Election
+Barbados,BRB,Latin America & Caribbean,High income,79.99,FALSE,,,
+Armenia,ARM,Europe & Central Asia,Upper middle income,80,FALSE,,,
+Moldova,MDA,Europe & Central Asia,Upper middle income,80.21,TRUE,Partly Free,61,Presidential Election
+Guam,GUM,East Asia & Pacific,High income,80.51,FALSE,,,
+Cayman Islands,CYM,Latin America & Caribbean,High income,81.07,FALSE,,,
+Mexico,MEX,Latin America & Caribbean,Upper middle income,81.18,TRUE,Partly Free,60,Presidential Election
+Botswana,BWA,Sub-Saharan Africa,Upper middle income,81.36,TRUE,Free,72,General Election
+Paraguay,PRY,Latin America & Caribbean,Upper middle income,81.58,FALSE,,,
+Nauru,NRU,East Asia & Pacific,High income,81.66,FALSE,,,
+Guyana,GUY,Latin America & Caribbean,High income,81.72,FALSE,,,
+Iraq,IRQ,Middle East & North Africa,Upper middle income,81.73,FALSE,,,
+Georgia,GEO,Europe & Central Asia,Upper middle income,81.88,TRUE,Partly Free,58,Presidential / Parlaimentary Election
+Peru,PER,Latin America & Caribbean,Upper middle income,81.96,FALSE,,,
+New Caledonia,NCL,East Asia & Pacific,High income,82.01,FALSE,,,
+Ukraine,UKR,Europe & Central Asia,Lower middle income,82.38,TRUE,Partly Free,49,Presidential Election
+Bulgaria,BGR,Europe & Central Asia,Upper middle income,82.44,TRUE,Free,78,European Union Parliament
+Mongolia,MNG,East Asia & Pacific,Lower middle income,83.02,TRUE,Free,84,Parliamentary Election
+Albania,ALB,Europe & Central Asia,Upper middle income,83.14,FALSE,,,
+Lebanon,LBN,Middle East & North Africa,Lower middle income,83.49,FALSE,,,
+Croatia,HRV,Europe & Central Asia,High income,83.63,TRUE,Free,83,European Union Parliament
+Philippines,PHL,East Asia & Pacific,Lower middle income,83.77,FALSE,,,
+Dominica,DMA,Latin America & Caribbean,Upper middle income,83.83,FALSE,,,
+Viet Nam,VNM,East Asia & Pacific,Lower middle income,84.15,FALSE,,,
+Brazil,BRA,Latin America & Caribbean,Upper middle income,84.46,FALSE,,,
+Maldives,MDV,South Asia,Upper middle income,84.69,FALSE,,,
+Trinidad and Tobago,TTO,Latin America & Caribbean,High income,84.7,FALSE,,,
+Costa Rica,CRI,Latin America & Caribbean,Upper middle income,85.4,FALSE,,,
+Bosnia and Herzegovina,BIH,Europe & Central Asia,Upper middle income,86.1,FALSE,,,
+Greece,GRC,Europe & Central Asia,High income,86.27,TRUE,Free,85,European Union Parliament
+West Bank and Gaza,PSE,Middle East & North Africa,Upper middle income,86.64,FALSE,,,
+Japan,JPN,East Asia & Pacific,High income,86.98,FALSE,,,
+San Marino,SMR,Europe & Central Asia,High income,87.03,FALSE,,,
+North Macedonia,MKD,Europe & Central Asia,Upper middle income,87.18,TRUE,Partly Free,67,Presidential / Parlaimentary Election
+Puerto Rico,PRI,Latin America & Caribbean,High income,87.29,FALSE,,,
+Turkiye,TUR,Europe & Central Asia,Upper middle income,87.31,FALSE,,,
+Seychelles,SYC,Sub-Saharan Africa,High income,87.4,FALSE,,,
+Czechia,CZE,Europe & Central Asia,High income,87.69,TRUE,Free,94,European Union Parliament
+Serbia,SRB,Europe & Central Asia,Upper middle income,87.69,FALSE,,,
+Kiribati,KIR,East Asia & Pacific,Lower middle income,88,FALSE,,,
+Israel,ISR,Middle East & North Africa,High income,88.18,FALSE,,,
+Bhutan,BTN,South Asia,Lower middle income,88.43,TRUE,Partly Free,63,National Assembly Election
+Kyrgyz Republic,KGZ,Europe & Central Asia,Lower middle income,88.47,FALSE,,,
+Portugal,PRT,Europe & Central Asia,High income,88.49,TRUE,Free,96,European Union Parliament
+Libya,LBY,Middle East & North Africa,Upper middle income,88.5,FALSE,,,
+Lithuania,LTU,Europe & Central Asia,High income,88.5,TRUE,Free,89,European Union Parliament
+Poland,POL,Europe & Central Asia,High income,88.59,TRUE,Free,80,European Union Parliament
+France,FRA,Europe & Central Asia,High income,88.65,TRUE,Free,89,European Union Parliament
+Montenegro,MNE,Europe & Central Asia,Upper middle income,88.88,FALSE,,,
+Azerbaijan,AZE,Europe & Central Asia,Upper middle income,89,TRUE,Not Free,7,Presidential Election
+Uzbekistan,UZB,Europe & Central Asia,Lower middle income,89.01,TRUE,Not Free,12,Legislative Election
+Italy,ITA,Europe & Central Asia,High income,89.22,TRUE,Free,90,European Union Parliament
+Kosovo,XKX,Europe & Central Asia,Upper middle income,89.44,FALSE,,,
+Jamaica,JAM,Latin America & Caribbean,Upper middle income,89.47,FALSE,,,
+Argentina,ARG,Latin America & Caribbean,Upper middle income,89.67,FALSE,,,
+Slovak Republic,SVK,Europe & Central Asia,High income,89.83,TRUE,Free,90,European Union Parliament
+Slovenia,SVN,Europe & Central Asia,High income,90.76,TRUE,Free,96,European Union Parliament
+Thailand,THA,East Asia & Pacific,Upper middle income,90.87,FALSE,,,
+Dominican Republic,DOM,Latin America & Caribbean,Upper middle income,91,TRUE,Partly Free,68,Presidential Election
+Morocco,MAR,Middle East & North Africa,Lower middle income,91,FALSE,,,
+Cyprus,CYP,Europe & Central Asia,High income,91.22,TRUE,Free,92,European Union Parliament
+Romania,ROU,Europe & Central Asia,High income,91.29,TRUE,Free,83,European Union Parliament
+Uruguay,URY,Latin America & Caribbean,High income,91.99,TRUE,Free,96,Presidential Election
+China,CHN,East Asia & Pacific,Upper middle income,92,FALSE,,,
+Malta,MLT,Middle East & North Africa,High income,92.07,FALSE,,,
+Estonia,EST,Europe & Central Asia,High income,92.24,TRUE,Free,95,European Union Parliament
+Jordan,JOR,Middle East & North Africa,Lower middle income,92.53,TRUE,Not Free,33,General Election
+Latvia,LVA,Europe & Central Asia,High income,92.71,TRUE,Free,88,European Union Parliament
+United States,USA,North America,High income,93.14,TRUE,Free,83,Presidential Election
+Kazakhstan,KAZ,Europe & Central Asia,Upper middle income,93.39,FALSE,,,
+Germany,DEU,Europe & Central Asia,High income,93.5,TRUE,Free,93,European Union Parliament
+Finland,FIN,Europe & Central Asia,High income,93.51,TRUE,Free,100,European Union Parliament
+Hungary,HUN,Europe & Central Asia,High income,93.78,TRUE,Partly Free,65,European Union Parliament
+Canada,CAN,North America,High income,93.96,FALSE,,,
+Belarus,BLR,Europe & Central Asia,Upper middle income,94.26,TRUE,Not Free,8,Parliamentary Election
+Russian Federation,RUS,Europe & Central Asia,Upper middle income,94.37,TRUE,Not Free,13,Presidential Election
+Singapore,SGP,East Asia & Pacific,High income,94.38,FALSE,,,
+Gibraltar,GIB,Europe & Central Asia,High income,94.44,FALSE,,,
+Chile,CHL,Latin America & Caribbean,High income,94.46,FALSE,,,
+Austria,AUT,Europe & Central Asia,High income,94.92,TRUE,Free,93,European Union Parliament
+Oman,OMN,Middle East & North Africa,High income,95.25,FALSE,,,
+Andorra,AND,Europe & Central Asia,High income,95.45,FALSE,,,
+Sweden,SWE,Europe & Central Asia,High income,95.53,TRUE,Free,99,European Union Parliament
+Spain,ESP,Europe & Central Asia,High income,95.76,TRUE,Free,90,European Union Parliament
+Belgium,BEL,Europe & Central Asia,High income,95.78,TRUE,Free,96,European Union Parliament
+New Zealand,NZL,East Asia & Pacific,High income,96.16,FALSE,,,
+United Kingdom,GBR,Europe & Central Asia,High income,96.3,TRUE,Free,91,General Election
+Ireland,IRL,Europe & Central Asia,High income,96.5,TRUE,Free,97,European Union Parliament
+Netherlands,NLD,Europe & Central Asia,High income,97.01,TRUE,Free,97,European Union Parliament
+Australia,AUS,East Asia & Pacific,High income,97.06,FALSE,,,
+Aruba,ABW,Latin America & Caribbean,High income,97.17,FALSE,,,
+Switzerland,CHE,Europe & Central Asia,High income,97.34,FALSE,,,
+Liechtenstein,LIE,Europe & Central Asia,High income,97.34,FALSE,,,
+Faroe Islands,FRO,Europe & Central Asia,High income,97.58,FALSE,,,
+South Korea,KOR,,,97.9,TRUE,Free,83,Legislative Election
+Malaysia,MYS,East Asia & Pacific,Upper middle income,98.02,FALSE,,,
+Bermuda,BMU,North America,High income,98.37,FALSE,,,
+Luxembourg,LUX,Europe & Central Asia,High income,98.76,TRUE,Free,97,European Union Parliament
+Norway,NOR,Europe & Central Asia,High income,99,FALSE,,,
+Brunei Darussalam,BRN,East Asia & Pacific,High income,99.03,FALSE,,,
+Monaco,MCO,Europe & Central Asia,High income,99.15,FALSE,,,
+Qatar,QAT,Middle East & North Africa,High income,99.65,FALSE,,,
+Kuwait,KWT,Middle East & North Africa,High income,99.75,FALSE,,,
+Denmark,DNK,Europe & Central Asia,High income,99.77,TRUE,Free,97,European Union Parliament
+Iceland,ISL,Europe & Central Asia,High income,99.83,TRUE,Free,94,Presidential Election
+United Arab Emirates,ARE,Middle East & North Africa,High income,100,FALSE,,,
+Bahrain,BHR,Middle East & North Africa,High income,100,FALSE,,,
+Saudi Arabia,SAU,Middle East & North Africa,High income,100,FALSE,,,

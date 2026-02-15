@@ -3,12 +3,47 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Modern D3.js - Vite App</title>
+    <title>Internet Access & Global Elections 2024</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet" />
   </head>
   <body>
-    <svg width="760" height="540">
-      <!-- <g id="container"></g> -->
-    </svg>
+    <article class="poster">
+      <header class="poster-header">
+        <span class="poster-number">01</span>
+        <h1>Democracy in the age<br />of artificial intelligence</h1>
+        <p class="poster-intro">
+          In 2024, over 70 countries held national elections while AI-generated deepfakes,
+          synthetic audio, and fabricated imagery became widely accessible. This chart maps
+          internet penetration across 200 countries&mdash;the higher the bar, the greater the
+          share of the population online. Countries holding elections are highlighted in color
+          by region. Where connectivity is highest, the surface for AI-driven disinformation
+          is largest, making these democracies especially vulnerable.
+        </p>
+      </header>
+
+      <div class="toggle-bar">
+        <button class="toggle-btn active" data-mode="semi">Half circle</button>
+        <button class="toggle-btn" data-mode="full">Full circle</button>
+      </div>
+
+      <div class="poster-chart">
+        <svg></svg>
+      </div>
+
+      <footer class="poster-legend">
+        <div class="legend-group">
+          <span class="legend-label">Freedom status (election countries)</span>
+          <div class="legend-items">
+            <span class="legend-item"><i style="background:#44bba4"></i>Free</span>
+            <span class="legend-item"><i style="background:#f4a93b"></i>Partly Free</span>
+            <span class="legend-item"><i style="background:#e8545a"></i>Not Free</span>
+            <span class="legend-item legend-muted"><i style="background:#ddd"></i>No election in 2024</span>
+          </div>
+        </div>
+      </footer>
+    </article>
     <script type="module" src="/main.js"></script>
   </body>
 </html>
